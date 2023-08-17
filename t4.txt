@@ -1,0 +1,1 @@
+To test git commit amend command ,this file is created.
